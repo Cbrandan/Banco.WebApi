@@ -1,0 +1,14 @@
+C:\Users\cisco\source\repos\Banco.WebApi\bin\Debug\netcoreapp2.2\Banco.WebApi.deps.json
+C:\Users\cisco\source\repos\Banco.WebApi\bin\Debug\netcoreapp2.2\Banco.WebApi.runtimeconfig.json
+C:\Users\cisco\source\repos\Banco.WebApi\bin\Debug\netcoreapp2.2\Banco.WebApi.runtimeconfig.dev.json
+C:\Users\cisco\source\repos\Banco.WebApi\bin\Debug\netcoreapp2.2\Banco.WebApi.dll
+C:\Users\cisco\source\repos\Banco.WebApi\bin\Debug\netcoreapp2.2\Banco.WebApi.pdb
+C:\Users\cisco\source\repos\Banco.WebApi\obj\Debug\netcoreapp2.2\Banco.WebApi.csprojAssemblyReference.cache
+C:\Users\cisco\source\repos\Banco.WebApi\obj\Debug\netcoreapp2.2\Banco.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\Banco.WebApi\obj\Debug\netcoreapp2.2\Banco.WebApi.RazorAssemblyInfo.cache
+C:\Users\cisco\source\repos\Banco.WebApi\obj\Debug\netcoreapp2.2\Banco.WebApi.RazorAssemblyInfo.cs
+C:\Users\cisco\source\repos\Banco.WebApi\obj\Debug\netcoreapp2.2\Banco.WebApi.AssemblyInfoInputs.cache
+C:\Users\cisco\source\repos\Banco.WebApi\obj\Debug\netcoreapp2.2\Banco.WebApi.AssemblyInfo.cs
+C:\Users\cisco\source\repos\Banco.WebApi\obj\Debug\netcoreapp2.2\Banco.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\cisco\source\repos\Banco.WebApi\obj\Debug\netcoreapp2.2\Banco.WebApi.dll
+C:\Users\cisco\source\repos\Banco.WebApi\obj\Debug\netcoreapp2.2\Banco.WebApi.pdb
